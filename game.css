@@ -1,0 +1,49 @@
+
+body{
+    background-image: url(https://img.freepik.com/free-vector/colorful-futuristic-background-with-shiny-particles_52683-42650.jpg?size=626&ext=jpg&ga=GA1.2.203282360.1684849671&semt=ais);
+   
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 700px;
+}
+.container {
+    text-align: center;
+    background-size: cover;
+    margin-top: 200px;
+   
+  }
+  p{
+    color: aliceblue;
+  }
+ 
+  h1 {
+    font-size: 40px;
+    color: aliceblue;
+  }
+  p{
+    font-size: 20px;
+    font-style: italic;
+  }
+ 
+  input[type="number"] {
+    padding: 10px;
+    width: 170px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+  }
+ 
+  #guessBtn {
+    font-size: 18px;
+    padding: 10px 20px;
+    border-radius: 30px;
+    border: 40px  66px;
+  }
+  #guessBtn:hover{
+    background-color:rgb(71, 15, 123);
+  }
+ 
+  #message {
+    font-size: 40px;
+    margin-top: 20px;
+    color: aliceblue;
+  }
